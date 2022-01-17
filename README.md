@@ -22,5 +22,5 @@ cd ignite_dtmoney
 yarn
 
 # Inicialize o projeto
-yarn dev
+yarn start
 ```
