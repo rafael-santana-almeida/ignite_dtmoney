@@ -2,7 +2,7 @@
 
 ## :memo: Descrição do projeto
 Este é um projeto para controle de financias pessoais, que ainda está em desenvolvimento. <br />
-O projeto está sendo desenvolvido com base no segubndo módulo do Ignite da Rocketseat.
+O projeto está sendo desenvolvido com base no segundo módulo do Ignite da Rocketseat.
 
 ## :wrench: Tecnologias utilizadas (até o momento)
 * :white_check_mark: ReactJS
