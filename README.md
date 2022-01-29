@@ -4,10 +4,14 @@
 Este é um projeto para controle de financias pessoais, que ainda está em desenvolvimento. <br />
 O projeto está sendo desenvolvido com base no segundo módulo do Ignite da Rocketseat.
 
-## :wrench: Tecnologias utilizadas (até o momento)
+## :wrench: Tecnologias/libs utilizadas (até o momento)
 * :white_check_mark: ReactJS
 * :white_check_mark: Typescript
+* :white_check_mark: MirageJS
+* :white_check_mark: Axios
+* :white_check_mark: React-modal
 * :white_check_mark: Styled-component
+* :white_check_mark: Polished
 
 ## :rocket: Como executar
 Para executar a aplicação, siga os passos abaixo.
