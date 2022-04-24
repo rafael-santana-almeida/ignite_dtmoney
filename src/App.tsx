@@ -7,7 +7,7 @@ import { NewTransactionModal } from "./components/NewTransactionModal";
 import { GlobalStyle } from "./styles/global";
 
 export function App() {
-  const [isNewTransactionModalOpen, setIsNewTransationModalOpen] = useState(true);
+  const [isNewTransactionModalOpen, setIsNewTransationModalOpen] = useState(false);
 
   function handleOpenNewTransactionModal() {
     setIsNewTransationModalOpen(true);
