@@ -12,13 +12,13 @@ Este é um projeto de uma aplicação para controle de financias pessoais. O pro
 * :white_check_mark: Styled-component
 * :white_check_mark: Polished
 
-## :pushpin: Próximos passos
-* :black_square_button: Adicionar switch de tema (Light/Dark)
-* :black_square_button: Adicionar tratativa para não permitir inserir uma transação em branco
-* :black_square_button: Possibilitar criação de categorias
-* :black_square_button: Adicionar funcionalidade de filtros
+## :pushpin: Features para serem desenvolvidas
+* :x: Adicionar switch de tema (Light/Dark)
+* :x: Adicionar tratativa para não permitir inserir uma transação em branco
+* :x: Possibilitar criação de categorias
+* :x: Adicionar funcionalidade de filtros
 
-## :rocket: Como utilizar
+## :rocket: Como executar
 Para executar a aplicação, siga os passos abaixo.
 ```
 # Clone o repositório
